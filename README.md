@@ -1,7 +1,3 @@
-# Patient-Appointment-Analysis
-Here is a professional and GitHub-appropriate `README.md` file for your Power BI project based on the PDF report you provided:
-
----
 
 # 🏥 Patients Appointment Analysis of  Virginia State of  USA 
 
